@@ -1,5 +1,3 @@
 # scitools-core
->>>>
-Core functionality of scitools projects.
-Includes necessary classes, functions and wrappers.
->>>
+> Core functionality of scitools projects.  
+> Includes necessary classes, functions and wrappers.  
